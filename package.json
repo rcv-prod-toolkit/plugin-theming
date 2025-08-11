@@ -16,7 +16,7 @@
         "needsBuild": true
     },
     "dependencies": {
-        "fs-extra": "^11.3.0",
+        "fs-extra": "^11.3.1",
         "sass": "^1.89.2"
     },
     "scripts": {
